@@ -2,7 +2,8 @@
 # 📘 Digital Literacy Project
 
 ## 👨‍🎓 Student Details
-- **Name:** Sayan Bhowmik  
+- **Name:** Sayan Bhowmik
+- **REG NO. :** 25BAI11042
 - **Course:** B.Tech (CSE)  
 - **University:** VIT Bhopal University  
 - **Course Code:** CSE0001 – Digital Literacy  
