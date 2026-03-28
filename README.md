@@ -18,7 +18,7 @@ As a **Student Digital Ambassador**, this project demonstrates my ability to:
 - Communicate responsibly online  
 - Understand cyber safety and awareness  
 
-The project is divided into **5 tasks**, each aligned with course modules. :contentReference[oaicite:0]{index=0}  
+The project is divided into **5 tasks**, each aligned with course modules. 
 
 ---
 
