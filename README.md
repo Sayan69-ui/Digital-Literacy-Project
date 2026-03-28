@@ -4,7 +4,7 @@
 ## 👨‍🎓 Student Details
 - **Name:** Sayan Bhowmik
 - **REG NO. :** 25BAI11042
-- **Course:** B.Tech (CSE)  
+- **Course:** B.Tech (CSE AIML)  
 - **University:** VIT Bhopal University  
 - **Course Code:** CSE0001 – Digital Literacy  
 
